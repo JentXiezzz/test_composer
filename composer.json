@@ -9,5 +9,6 @@
     ],
     "require": {
         "xiezhengtao/xzt_test": "dev-main"
-    }
+    },
+    "minimum-stability": "stable"
 }
