@@ -3,7 +3,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/JentXiezzz/test.git"
+            "url": "git@github.com:JentXiezzz/xzt_test.git"
         }
     ],
     "require": {
