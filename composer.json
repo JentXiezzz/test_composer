@@ -7,6 +7,6 @@
         }
     ],
     "require": {
-        "xiezhengtao/test": "dev-main"
+        "xiezhengtao/xzt_test": "dev-main"
     }
 }
