@@ -1,0 +1,22 @@
+{
+    "name": "xiezhengtao/test",
+    "description": "test for composer",
+    "type": "project",
+    "require": {
+        "symfony/redis-messenger": "^5.4",
+        "doctrine/orm": "^2.16"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Xiezhengtao\\Test\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "xiezhengtao",
+            "email": "xiezhengtao@zhenrongbao.com"
+        }
+    ],
+    "minimum-stability": "beta"
+}

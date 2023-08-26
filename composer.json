@@ -1,0 +1,12 @@
+{
+    "name": "test/local_test",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/JentXiezzz/test.git"
+        }
+    ],
+    "require": {
+        "xiezhengtao/test": "dev-main"
+    }
+}
