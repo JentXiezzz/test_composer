@@ -1,5 +1,5 @@
 {
-    "name": "test/local_test",
+    "name": "xiezhengtao/local_test",
     "repositories": [
         {
             "type": "vcs",
