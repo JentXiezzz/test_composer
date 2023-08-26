@@ -1,5 +1,6 @@
 {
     "name": "xiezhengtao/local_test",
+    "license": "MIT",
     "repositories": [
         {
             "type": "vcs",
